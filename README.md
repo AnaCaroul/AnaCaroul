@@ -25,6 +25,7 @@
 
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Kotlin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AKotlin_logo.svg&psig=AOvVaw14XAyb2f9cQlB5BMxAsa_7&ust=1684360522143000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiS0Ibq-v4CFQAAAAAdAAAAABAE)
 
 <h3>🖍 &nbsp;Design</h3>
 
