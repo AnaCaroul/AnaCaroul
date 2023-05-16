@@ -10,7 +10,7 @@
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com programação a um ano atrás no início eu tinha certeza de que aquilo não era pra mim, mas depois de um tempo aprendendo mais sobre a área eu fiquei fascinada, ver meu primeiro código funcionando me deu uma sensação mágica e desde de então, eu decidi que queria fazer isso na minha vida - ser programadora. 
 - 🤳 &nbsp; Sou apaixonada por fotografia, amo viajar e tirar fotos dos lugares, paisagens, comida, etc. Gosto muito de  automobilismo, especialmente por Fórmula 1. No meu tempo livre costumo ler, adoro livros de autoconhecimento, suspense, mistério e romance :)
-- 🎯 &nbsp; Atualmente, estudo na escola COTEMIG, estou cursando o 2° ano do E.M, e tenho como foco começar minha carreira de desenvolvedora front-end.
+- 🎯 &nbsp; Atualmente, estudo na escola COTEMIG, estou cursando o 3° ano do E.M, e tenho como foco começar minha carreira de desenvolvedora front-end.
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
