@@ -16,10 +16,10 @@
 - 👩🏻‍🎓 &nbsp; Concluí o Ensino Médio Técnico em Tecnologia no Cotemig em 2023.
 
 
-<div align="center" style="margin-bottom:100px">
+<div align="center">
   <a href="https://github.com/AnaCaroul">
   <img width=40% src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" />
+  <img width=40%  src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" />
 
 </div>
 
