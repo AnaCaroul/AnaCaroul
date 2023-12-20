@@ -18,17 +18,12 @@
 
 <div align="center" style="margin-bottom:100px">
   <a href="https://github.com/AnaCaroul">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" />
-<!--  <img width=40% align="center" src="https://github-readme-stats-git-main-AnaCaroul.vercel.app/api/top-langs/?username=AnaCaroul&show_icons=true&theme=radical&layout=compact" /> -->
+  <img width=40% src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" />
+
 </div>
 
 
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" />
-
- </div>
  
  &nbsp;
  &nbsp;
