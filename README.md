@@ -15,6 +15,14 @@
 - 🎯 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile.
 - 👩🏻‍🎓 &nbsp; Concluí o Ensino Médio Técnico em Tecnologia no Cotemig em 2023.
 
+
+<div align="center">
+  <a href="https://github.com/AnaCaroul">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCaroul&layout=default&langs_count=7&theme=radical"/> 
+</div>
+
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-AnaCaroul.vercel.app/api/top-langs/?username=AnaCaroul&show_icons=true&theme=radical&layout=compact" />
