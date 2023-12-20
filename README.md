@@ -1,6 +1,8 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=643AB1&height=120&section=header"/>
+
+<h1 align="center"> Hello, I'm Ana Carolina 🤗 </h1>
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
@@ -73,4 +75,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=643AB1&height=120&section=footer"/>
