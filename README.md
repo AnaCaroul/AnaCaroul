@@ -1,11 +1,14 @@
 
 <h1 align="center"> Olá, Bem-vindo(a) ao meu github! eu sou a Ana Carolina, aqui você vai achar alguns de meus projetos e estudos🤗 </h1>
 
-<div align="center">
-  <a href="https://github.com/AnaCaroul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCaroul&layout=default&langs_count=7&theme=radical"/> -->
-</div>
+<p align="center">
+<a href="https://www.instagram.com/anacarolina.alr/"><img src="https://img.shields.io/badge/-@anacarolina.alr-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ana-carolina-alves-ramos-1181911a6/"><img src="https://img.shields.io/badge/-ana-carolina-alves-ramos-1181911a6?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:anacarolinaalvesramos03@gmail.com"><img src="https://img.shields.io/badge/-anacarolinaalvesramos03@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
