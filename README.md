@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/anacarolina.alr/"><img src="https://img.shields.io/badge/-@anacarolina.alr-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ana-carolina-alves-ramos-1181911a6/"><img src="https://img.shields.io/badge/-ana-carolina-alves-ramos-1181911a6?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ana-carolina-alves-ramos-1181911a6/"><img src="https://img.shields.io/badge/-Ana%20Carolina%20Ramos-1181911a6?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anacarolinaalvesramos03@gmail.com"><img src="https://img.shields.io/badge/-anacarolinaalvesramos03@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
