@@ -10,8 +10,10 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com programação a três ano atrás no início eu tinha certeza de que aquilo não era pra mim, mas depois de um tempo aprendendo mais sobre a área eu fiquei fascinada, ver meu primeiro código funcionando me deu uma sensação mágica e desde de então, eu decidi que queria fazer isso na minha vida - ser programadora. 
+- 🤳 &nbsp; Sou apaixonada por fotografia, amo viajar e tirar fotos dos lugares, paisagens, comida, etc. Gosto muito de  automobilismo, especialmente por Fórmula 1. No meu tempo livre costumo ler, adoro livros de autoconhecimento, suspense, mistério e romance :)
+- 🎯 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile.
+- 👩🏻‍🎓 &nbsp; Concluí o Ensino Médio Técnico em Tecnologia no Cotemig em 2023.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" />
