@@ -22,6 +22,8 @@
 <!--   <img width="40%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" /> -->
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radica)
+
 
  
  &nbsp;
