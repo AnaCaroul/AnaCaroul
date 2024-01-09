@@ -18,13 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/AnaCaroul">
-  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<!--   <img width="40%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=AnaCaroul&theme=radical&mode=weekly" /> -->
-    <img width="59%" src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radica">
+    <img width="59%" src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical">
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=dark)
-
 
  
  &nbsp;
