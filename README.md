@@ -13,10 +13,12 @@
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com programação a quatro ano atrás no início eu tinha certeza de que aquilo não era pra mim, mas depois de um tempo aprendendo mais sobre a área eu fiquei fascinada, ver meu primeiro código funcionando me deu uma sensação mágica e desde de então, eu decidi que queria fazer isso na minha vida - ser programadora. 
 - 🤳 &nbsp; Sou apaixonada por fotografia, amo viajar e tirar fotos dos lugares, paisagens, comida, etc. Gosto muito de  automobilismo, especialmente por Fórmula 1. No meu tempo livre costumo ler, adoro livros de autoconhecimento, suspense, mistério e romance :)
 - 🎯 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile.
-- 👩🏻‍🎓 &nbsp; Concluí o Ensino Médio Técnico em Tecnologia no Cotemig em 2023.
+- 📚 &nbsp; Concluí o Ensino Médio Técnico em Tecnologia no Cotemig em 2023.
+- 👩🏻‍🎓 &nbsp; Cursando bacharelado em Controladoria e Finanças na Universidade Federal de Minas Gerias. 
 
 
 <div align="center">
+  
   <a href="https://github.com/AnaCaroul">
     <img width="59%" src="https://github-readme-stats.vercel.app/api?username=AnaCaroul&show_icons=true&theme=radical">
 </div>
